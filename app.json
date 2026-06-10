@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "mealappli",
+    "slug": "mealappli",
+    "version": "1.0.0",
+    "scheme": "mealappli",
+    "sdkVersion": "54.0.0",
+    "platforms": ["ios", "android"],
+    "plugins": ["expo-router"]
+  }
+}
